@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="content">
+        <p><b>Họ tên:</b> Nguyễn Thị Thu Hà\n</p>
+        <p><b>Giới tính:</b> nữ\n</p>
+        <p><b>Ngày sinh:</b> 13/04/2001\n</p>
+        <p><b>Số điện thoại:</b> 0358604666\n</p>
+        <p><b>Quê quán:</b> Hưng Yên\n</p>
+        <p><b>Sở thích:</b> đá cầu, cầu lông, bóng chuyền, đi du lịch, nghe nhạc, đọc sách...\n</p>
+        <p><b>Email:</b> <a href="">nguyenhoangha1342001@gmail.com\n</a></p>
+        <p><b>Facebook:</b> <a href="https://www.facebook.com/profile.php?id=100006607638182">https://www.facebook.com/profile.php?id=100006607638182</a></p>
+    </string>
+</resources>
